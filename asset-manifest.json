@@ -1,0 +1,14 @@
+{
+  "main.css": "/react-get-weather-app/static/css/main.bea25f8a.chunk.css",
+  "main.js": "/react-get-weather-app/static/js/main.20c12e06.chunk.js",
+  "main.js.map": "/react-get-weather-app/static/js/main.20c12e06.chunk.js.map",
+  "static/js/1.7b6c2ae0.chunk.js": "/react-get-weather-app/static/js/1.7b6c2ae0.chunk.js",
+  "static/js/1.7b6c2ae0.chunk.js.map": "/react-get-weather-app/static/js/1.7b6c2ae0.chunk.js.map",
+  "runtime~main.js": "/react-get-weather-app/static/js/runtime~main.fb1a151e.js",
+  "runtime~main.js.map": "/react-get-weather-app/static/js/runtime~main.fb1a151e.js.map",
+  "static/media/app_logo.png": "/react-get-weather-app/static/media/app_logo.94cdfb12.png",
+  "static/css/main.bea25f8a.chunk.css.map": "/react-get-weather-app/static/css/main.bea25f8a.chunk.css.map",
+  "index.html": "/react-get-weather-app/index.html",
+  "precache-manifest.a460d8c73800fdf580893e268a5605d6.js": "/react-get-weather-app/precache-manifest.a460d8c73800fdf580893e268a5605d6.js",
+  "service-worker.js": "/react-get-weather-app/service-worker.js"
+}
